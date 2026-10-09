@@ -1,6 +1,6 @@
 # HARSHA-VARDHAN-V-G
 <!--
-    HARSHA-TKD | GitHub Profile README
+    HARSHA VARDHAN V G | GitHub Profile README
     Theme: Dark Hacker / Neon Green
 -->
 
@@ -34,7 +34,7 @@ Cybersecurity | Software Development
 Linux | Python | Networking | Git
 ```
 
-Hey! I'm **Harsha Vardhan**, a first-year Computer Science Engineering student specializing in Cybersecurity.
+Hey! I'm **Harsha Vardhan V G**, a first-year Computer Science Engineering student specializing in Cybersecurity.
 
 I'm learning how software works, how systems can be secured, and how to build useful developer tools.
 
